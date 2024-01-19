@@ -1,0 +1,4 @@
+## ROOT KIMI HANSI USERLERE ICAZE VERILIB BU KOMMANDLA BAXIRLAR
+    
+    
+    # getent  group root
