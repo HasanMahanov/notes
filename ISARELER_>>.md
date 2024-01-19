@@ -2,5 +2,8 @@
  ## Bunu yazsam eger
     # echo  "salam" > test 
 ## TEST FAYLIN ICINDE HERSHEY SILINIB YALNIZ SALAM YAZILACAQ
-    # echo "salam" >> test
+
+#
+
 ## EGER IKI  BOYUKKDUR YAZSAM BU YALNIZ TEST FAYLININ ICINE SALAM SOZU ELAVE OLUNACAQ
+    # echo "salam" >> test
