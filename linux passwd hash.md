@@ -1,4 +1,4 @@
-     /etc/passwd  
+    nano  /etc/passwd  
  ## hissesine elave etsen sen hemise root kimi usere daxil olacaqsan 
       openssl passwd -1  -salt hasan
    ## parol 123
