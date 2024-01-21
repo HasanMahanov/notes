@@ -1,1 +1,1 @@
-getcap -r / 2>/dev/null
+## getcap -r / 2>/dev/null
