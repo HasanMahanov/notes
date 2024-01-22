@@ -1,2 +1,2 @@
-# Hasan
+# Hasanin qeydi
 Hasanexploit
