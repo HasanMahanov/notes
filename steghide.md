@@ -6,3 +6,5 @@
 
 ## EGER SIFRE VARSA 
     stegcracker hazir.jpg /usr/share/wordlists/rockyou.txt
+## EXIFTOOL ISE ICINI OXUYUR
+    exiftool hazir.jpg
