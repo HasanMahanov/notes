@@ -1,2 +1,2 @@
-# Hasanin qeydi
-Hasanexploit
+# LINUX FUNDAMENTAL
+
