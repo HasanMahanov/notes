@@ -7,13 +7,21 @@
      show databases;
 #
 +--------------------+
+
 | Database           |
+
 +--------------------+
+
 | information_schema |
+
 | mysql              |
+
 | performance_schema |
+
 | sys                |
+
 +--------------------+
+
 #
     use mysql;
       show table
