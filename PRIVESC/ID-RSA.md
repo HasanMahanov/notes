@@ -12,6 +12,11 @@
      i duymesini klikleyirik
      daha sonra ctrl V duymesi vasitesi ile paste edirik copy elediyimizi 
      ( shift + : )  bu duymeleri klikledikden sonra wq yaziriq 
+
+# daha sonra
+    ssh2john emri ile 
+    ssh2john id_rsa > hash
+    # file johnun qirabileceyi formaya getirir
  ## bu linkvasitesi ile baxa bilerik
  https://buraksevben.medium.com/tryhackme-basic-pentesting-solution-turkish-242b935df5dc 
  
