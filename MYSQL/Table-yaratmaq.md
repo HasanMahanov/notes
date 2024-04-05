@@ -7,3 +7,5 @@
     Address varchar(255),
     City varchar(255)
 );
+
+# eger biz regem yaziriqsa int herfdirse varchar(255) istifade etmeliyik
